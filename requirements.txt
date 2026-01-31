@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+edge-tts
+pymupdf
+moviepy<2.0
